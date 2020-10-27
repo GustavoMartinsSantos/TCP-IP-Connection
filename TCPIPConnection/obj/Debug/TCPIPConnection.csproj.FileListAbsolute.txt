@@ -1,0 +1,7 @@
+C:\Users\Gustavo\OneDrive - Etec Centro Paula Souza\TPA\TCPIPConnection\bin\Debug\TCPIPConnection.exe.config
+C:\Users\Gustavo\OneDrive - Etec Centro Paula Souza\TPA\TCPIPConnection\bin\Debug\TCPIPConnection.exe
+C:\Users\Gustavo\OneDrive - Etec Centro Paula Souza\TPA\TCPIPConnection\bin\Debug\TCPIPConnection.pdb
+C:\Users\Gustavo\OneDrive - Etec Centro Paula Souza\TPA\TCPIPConnection\obj\Debug\TCPIPConnection.csprojAssemblyReference.cache
+C:\Users\Gustavo\OneDrive - Etec Centro Paula Souza\TPA\TCPIPConnection\obj\Debug\TCPIPConnection.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\OneDrive - Etec Centro Paula Souza\TPA\TCPIPConnection\obj\Debug\TCPIPConnection.exe
+C:\Users\Gustavo\OneDrive - Etec Centro Paula Souza\TPA\TCPIPConnection\obj\Debug\TCPIPConnection.pdb
